@@ -1,0 +1,23 @@
+body{
+    overflow: hidden;
+}
+.img-banner{
+    height: 43%;
+}
+.Legenda{
+    height: 40px;
+}
+.poltrona{
+    height: 40px;
+}
+#divPalco{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#divPalco p {
+    width: 50%;
+    margin-top: -20px;
+    position: absolute;
+    
+}
